@@ -3,7 +3,7 @@ name: test2
 on:
   push:
     branches:
-      - main
+      - CAMT-S2023-960131-652110284
 
 jobs:
   job1:
